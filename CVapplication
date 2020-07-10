@@ -114,7 +114,7 @@ public class Main extends JFrame {
             if (i == 3) {
                 odpA.setText("Musimy sprawdzić");
                 odpB.setText("Dla Ciebie coś się może znajdzie");
-                odpC.setText("Jest, miedzy biurkami :P");
+                odpC.setText("Jest, między biurkami :P");
                 odpD.setText("Może, może...");
             }
             if (i == 4) {
