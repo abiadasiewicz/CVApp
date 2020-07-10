@@ -90,7 +90,7 @@ public class Main extends JFrame {
             pyt[8] = "Mam 5 z:";
             pyt[9] = "Dlaczego nadaję się do tej pracy jak nikt inny:";
             pyt[10] = "Moje oczekiwania finansowe:";
-            pyt[11] = "Super! Dotarliście Państwo do końca, czy chcecie poznać najważniejszą rzecz w tej pracy?";
+            pyt[11] = "Super! Dotarliście Państwo do końca, czy chcecie poznać najważniejszą rzecz w tym dziele?";
 
             new Odpowiedzi(i);
             pytania.setText(pyt[i]);
