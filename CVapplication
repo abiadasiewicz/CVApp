@@ -157,7 +157,7 @@ public class Main extends JFrame {
                 odpA.setText("Niewielkie");
                 odpB.setText("Za darmo prawie");
                 odpC.setText("Żeby na obiadki starczyło");
-                odpD.setText("Nawet bezpłatnie bym się skusił");
+                odpD.setText("Umiarkowane");
             }
             if (i == 11) {
                 odpA.setText("Najważniejsza jest pasja, ale zobaczymy :)");
