@@ -1,0 +1,1 @@
+java -jar Milionerzy.jar
